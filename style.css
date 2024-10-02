@@ -1,0 +1,57 @@
+body{
+    background-color: #2b5f49;
+}
+
+.button{
+
+text-align: center;
+}
+
+.register{
+    background-color: #9d8e51;
+    width: 90%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    
+}
+
+.register1{
+    background-color: white;
+    width: 90%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 3px;
+    color: #392e01;
+    margin-top: 10px;
+}
+
+@media screen and (min-width: 1153px){
+    .laptop{
+        margin-left: 30%;
+        margin-right: 30%;
+        padding-bottom: 20px;
+        background-color: #2b5f49;
+    }
+
+    body{
+        background-color: white;
+    }
+}
+
+
+@media screen and (min-width: 750px){
+    .laptop{
+        margin-left: 20%;
+        margin-right: 20%;
+        padding-bottom: 20px;
+        background-color: #2b5f49;
+    }
+
+    body{
+        background-color: white;
+    }
+}
